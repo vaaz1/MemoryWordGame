@@ -89,60 +89,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-//        final String[] categories = new String[] {"Animals","Clothes","Accessories","House",
-//                "Sports","Furniture","Food","Numbers","Buildings","Transportation","Instruments",
-//                "School","Office","Family","Occupations","Emotions","Movements","Positions",
-//                "Weather","Technology","Travelling"};
-//
-//        ArrayAdapter<String> itemsAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, categories);
-//        final GridView gridView = (GridView) findViewById(R.id.grid);
-//        gridView.setAdapter(itemsAdapter);
-//
-//        gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-//            @Override
-//            public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
-//                switch (position){
-//                    case 0:
-//                        Intent animalsIntent = new Intent(MainActivity.this, Animals.class);
-//                        animalsIntent.putExtra("lang_one",text_lang_one);
-//                        animalsIntent.putExtra("lang_two", text_lang_two);
-//                        startActivity(animalsIntent);
-//                        break;
-//                    case 1:
-//                        Intent clothesIntent = new Intent(MainActivity.this, Clothes.class);
-//                        clothesIntent.putExtra("lang_one",text_lang_one);
-//                        clothesIntent.putExtra("lang_two", text_lang_two);
-//                        startActivity(clothesIntent);
-//                        break;
-//                    default:
-//                        Toast.makeText(MainActivity.this, "Category not available",Toast.LENGTH_SHORT).show();
-//                }
-//            }
-//        });
-
-//        TextView animals = (TextView)findViewById(R.id.animals);
-//        animals.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Intent animalsIntent = new Intent(MainActivity.this, Animals.class);
-//                animalsIntent.putExtra("lang_one",text_lang_one);
-//                animalsIntent.putExtra("lang_two", text_lang_two);
-//                startActivity(animalsIntent);
-//            }
-//        });
-//
-//        TextView clothes = (TextView)findViewById(R.id.clothes);
-//        clothes.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Intent clothesIntent = new Intent(MainActivity.this, Clothes.class);
-//                clothesIntent.putExtra("lang_one",text_lang_one);
-//                clothesIntent.putExtra("lang_two", text_lang_two);
-//                startActivity(clothesIntent);
-//            }
-//        });
-
     }
 
 }
