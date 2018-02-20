@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Vocabulary Trainer</string>
+
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="rabbit">Rabbit</string>
+    <string name="cow">Cow</string>
+    <string name="horse">Horse</string>
+    <string name="sheep">Sheep</string>
+    <string name="chicken">Chicken</string>
+    <string name="pig">Pig</string>
+    <string name="bird">Bird</string>
+    <string name="duck">Duck</string>
+    <string name="hamster">Hamster</string>
+    <string name="guineapig">Guineapig</string>
+
+    <string name="cat_ger">Katze</string>
+    <string name="dog_ger">Hund</string>
+    <string name="rabbit_ger">Kanienchen</string>
+    <string name="cow_ger">Kuh</string>
+    <string name="horse_ger">Pferd</string>
+    <string name="sheep_ger">Schaf</string>
+    <string name="chicken_ger">Huhn</string>
+    <string name="pig_ger">Schwein</string>
+    <string name="bird_ger">Vogel</string>
+    <string name="duck_ger">Ente</string>
+    <string name="hamster_ger">Hamster</string>
+    <string name="guineapig_ger">Meerschweinchen</string>
+    
+    <string name="bra">Bra</string>
+    <string name="boots">Boots</string>
+    <string name="bikini">Bikini</string>
+    <string name="cap">Cap</string>
+    <string name="coat">Coat</string>
+    <string name="dress">Dress</string>
+    <string name="gloves">Gloves</string>
+    <string name="hat">Hat</string>
+    <string name="jacket">Jacket</string>
+    <string name="panties">Panties</string>
+    <string name="pullover">Pullover</string>
+    <string name="pyjama">Pyjama</string>
+    <string name="scarf">Scarf</string>
+    <string name="shirt">Shirt</string>
+    <string name="shoe">Shoe</string>
+    <string name="shorts">Shorts</string>
+    <string name="skirt">Skirt</string>
+    <string name="snow_hat">Hat</string>
+    <string name="socks">Socks</string>
+    <string name="stockings">Stockings</string>
+    <string name="suitcase">Suitcase</string>
+    <string name="sunglasses">Sunglasses</string>
+    <string name="tie">Tie</string>
+    <string name="trousers">Trousers</string>
+    <string name="umbrella">Umbrella</string>
+
+    <string name="bra_ger">BH</string>
+    <string name="boots_ger">Stiefel</string>
+    <string name="bikini_ger">Bikini</string>
+    <string name="cap_ger">Kappe</string>
+    <string name="coat_ger">Mantel</string>
+    <string name="dress_ger">Kleid</string>
+    <string name="gloves_ger">Handschuhe</string>
+    <string name="hat_ger">Hut</string>
+    <string name="jacket_ger">Jacke</string>
+    <string name="panties_ger">Unterhosen</string>
+    <string name="pullover_ger">Pullover</string>
+    <string name="pyjama_ger">Schlafanzug</string>
+    <string name="scarf_ger">Schal</string>
+    <string name="shirt_ger">Hemd</string>
+    <string name="shoe_ger">Schuh</string>
+    <string name="shorts_ger">Kurze Hose</string>
+    <string name="skirt_ger">Rock</string>
+    <string name="snow_hat_ger">Mütze</string>
+    <string name="socks_ger">Socken</string>
+    <string name="stockings_ger">Strumpfhosen</string>
+    <string name="suitcase_ger">Koffer</string>
+    <string name="sunglasses_ger">Sonnenbrille</string>
+    <string name="tie_ger">Kravatte</string>
+    <string name="trousers_ger">Hose</string>
+    <string name="umbrella_ger">Regenschirm</string>
+
+    <string-array name="languages_array">
+        <item name="English">English</item>
+        <item name="German">German</item>
+        <item name="Hebrew">Hebrew</item>
+        <item name="Spanish">Spanish</item>
+    </string-array>
+
+</resources>

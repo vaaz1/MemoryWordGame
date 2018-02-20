@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vocabel Trainer</string>
+
+    <string name="cat">Katze</string>
+    <string name="dog">Hund</string>
+    <string name="rabbit">Kanienchen</string>
+    <string name="cow">Kuh</string>
+    <string name="horse">Pferd</string>
+    <string name="sheep">Schaf</string>
+    <string name="chicken">Huhn</string>
+    <string name="pig">Schwein</string>
+    <string name="bird">Vogel</string>
+    <string name="duck">Ente</string>
+    <string name="hamster">Hamster</string>
+    <string name="guineapig">Meerschweinchen</string>
+
+</resources>
